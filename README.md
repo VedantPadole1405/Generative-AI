@@ -1,7 +1,7 @@
 # 🔥 Basic GAN Implementation — MNIST Digit Generator (PyTorch)
 
 <p align="center">
-  <img src="assets/initial_gan.png" width="520"/>
+  <img src="[assets/initial_gan.png](https://github.com/VedantPadole1405/Generative-AI/blob/main/generatedsamples.png)" width="520"/>
 </p>
 <p align="center"><i>Initial GAN Generated Samples</i></p>
 
